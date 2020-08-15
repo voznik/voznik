@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have 9+ years of experience in front-end web development for large & complex enterprise SPA (mostly with `Angular`). Predominantly my experience is in the fields of Healthcare, CivicTech or FinTech. Besides pure code construction, I contribute to architecture, development process refinement and introduction of the best practices for the team to follow.
+
+📫 How to reach me: https://about.com/voznik
