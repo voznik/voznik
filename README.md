@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I have 9+ years of experience in front-end web development for large & complex enterprise SPA (mostly with `Angular`). Predominantly my experience is in the fields of Healthcare, CivicTech or FinTech. Besides pure code construction, I contribute to architecture, development process refinement and introduction of the best practices for the team to follow.
 
-<!-- 📫 How to reach me: https://about.com/voznik -->
+📫 How to reach me: https://about.me/voznik?promo=email_sig&utm_source=email_sig&utm_medium=external_link
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/voznik/my-stack)
